@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.91.37.6:8081/repository/jointit_release/</url>
+	      <url>http://3.94.21.162:8081/repository/jointit_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.91.37.6:8081/repository/joinit_snapshot/</url>
+	      <url>http://3.94.21.162:8081/repository/joinit_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
