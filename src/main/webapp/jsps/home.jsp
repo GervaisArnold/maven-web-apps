@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology.
+<h1 align="center">Joinit Solutions</h1>
+<h2 align="center"> Welcome to Joinit Solutions.
 	Special testimony and thanksgiving session coming up on Sunday June 27, 2023
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
+	Joinit Solutions is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY JOINIT SOLUTIONS 4</h2>
 <hr>
@@ -21,20 +21,20 @@
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Joinit Solutions, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to Joinit Solutions</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Joinit Solutions - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://Joinit-Solutions/">Joinit Solutions</a> </small></p>
 
 </body>
 </html>
